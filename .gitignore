@@ -1,0 +1,16 @@
+node_modules/
+
+CLAUDE.md
+
+docs/
+
+.superpowers/
+
+.claude/
+
+out/
+
+.idea/
+
+npminstall-debug.log
+
